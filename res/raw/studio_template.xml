@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+
+<modelimage src="INT:angie_b_i"></modelimage>
+<layer order="0" Name="Eye Color" mask="INT:angie_eyes_b">
+<externalPalette src="INT:kit_eyes" />
+</layer>
+
+
+</Config>

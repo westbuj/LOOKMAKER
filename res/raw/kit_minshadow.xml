@@ -1,0 +1,24 @@
+<Config>
+<palette Name="Mineral Eyeshadows" details="Age defying, Silicone Based Foundation" productURL="http://www.jwcosmetics.com/viewPlid.php?plid=3">
+<paletteEntry name="Beach" red="205" green="125" blue="119"/>
+<paletteEntry name="Emerald" red="64" green="76" blue="64"/>
+<paletteEntry name="Everglade" red="133" green="108" blue="83"/>
+<paletteEntry name="Flower" red="186" green="147" blue="132"/>
+<paletteEntry name="Ocean" red="78" green="92" blue="111"/>
+<paletteEntry name="Statosphere" red="98" green="76" blue="95"/>
+<paletteEntry name="Volcano" red="131" green="91" blue="88"/>
+<paletteEntry name="Bermuda Sand" red="192" green="138" blue="101"/>
+<paletteEntry name="Coast" red="190" green="129" blue="86"/>
+<paletteEntry name="Equator" red="139" green="59" blue="48"/>
+<paletteEntry name="Greenhouse" red="106" green="117" blue="111"/>
+<paletteEntry name="Meteorite" red="79" green="51" blue="38"/>
+<paletteEntry name="Mountain" red="106" green="62" blue="38"/>
+<paletteEntry name="Tundra" red="204" green="184" blue="188"/>
+<paletteEntry name="Wilderness" red="114" green="71" blue="58"/>
+<paletteEntry name="Yellowstone" red="197" green="157" blue="88"/>
+<paletteEntry name="Shadow Base" red="97" green="94" blue="91"/>
+<paletteEntry name="Bronzed" red="214" green="137" blue="110" />
+<paletteEntry name="Eden" red="215" green="164" blue="194"/>
+<paletteEntry name="Gold Mine" red="200" green="168" blue="89"/>
+</palette>
+</Config>

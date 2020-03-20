@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Config><modelimage src="INT:angie_b_i"></modelimage>
+
+
+<layer order="0" Name="Eye Color" mask="INT:angie_eyes_b">
+
+<externalPalette src="INT:kit_eyes" />
+
+</layer>
+
+<layer order="0" Name="Foundation" mask="INT:angie_found_b">
+<externalPalette src="INT:kit_pbase" />
+<externalPalette src="INT:kit_mfound" ></externalPalette>
+<externalPalette src="INT:kit_minfound" ></externalPalette>
+
+</layer>
+
+<layer order="0" Name="Blush" mask="INT:angie_blush_b">
+<externalPalette src="INT:kit_minblush" ></externalPalette>
+<externalPalette src="INT:kit_minbronze" />
+<externalPalette src="INT:kit_bronze" />
+</layer>
+
+<layer order="0" Name="Eyeshadow" mask="INT:angie_eyeshadow_b">
+<externalPalette src="INT:kit_minshadow" />
+<externalPalette src="INT:kit_hd_ex" />
+</layer>
+
+<layer order="0" Name="Eyeliner" mask="INT:angie_eyeliner_b">
+
+<externalPalette src="INT:kit_hd_ex" />
+<externalPalette src="INT:kit_gel_eye" />
+
+</layer>
+
+<layer order="0" Name="Lashes" mask="INT:angie_lash_b">
+
+<externalPalette src="INT:kit_hair" />
+</layer>
+
+<layer order="0" Name="Brows" mask="INT:angie_brow_b">
+
+<externalPalette src="INT:kit_brows" />
+</layer>
+
+<layer order="0" Name="Lips" mask="INT:angie_lips_b">
+
+<externalPalette src="INT:kit_lips" />
+
+</layer>
+
+
+
+<layer order="0" Name="Hair" mask="INT:angie_hair_b">
+
+<externalPalette src="INT:kit_hair" />
+</layer>
+
+</Config>

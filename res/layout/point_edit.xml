@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="vertical"
+  android:id="@+id/point_edit">
+  
+  <LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal"  >
+  <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="L"
+    android:id="@+id/left_button"
+    />
+    <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="U"
+    android:id="@+id/up_button"
+    />
+    <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="D"
+    android:id="@+id/down_button"
+    />
+    <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="R"
+    android:id="@+id/right_button"
+    />
+    
+    <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Next"
+    android:id="@+id/next_point_button"
+    />
+    
+     <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="n Poly"
+    android:id="@+id/next_poly_button"
+    />
+    
+     <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Make"
+    android:id="@+id/make_mask_button"
+    />
+
+   </LinearLayout>
+       
+       
+       
+ <LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal"  >
+  <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Nxt R"
+    android:id="@+id/next_ref_point"
+    />
+    <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="None"
+    android:id="@+id/none"
+    />
+  
+   </LinearLayout>
+       
+       
+       
+</LinearLayout>

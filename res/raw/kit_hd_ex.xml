@@ -1,0 +1,19 @@
+<Config>
+<palette Name="HD Extreme Powder Paint" details="For everyday and in between shoots" productURL="http://www.jwcosmetics.com/viewPlid.php?plid=3">
+<paletteEntry name="Aqua" red="42" green="103" blue="103"/>
+<paletteEntry name="Black Gold" red="83" green="70" blue="46"/>
+<paletteEntry name="Cherry" red="171" green="22" blue="37"/>
+<paletteEntry name="Chrome" red="73" green="67" blue="64"/>
+<paletteEntry name="Egg Plant" red="92" green="69" blue="73"/>
+<paletteEntry name="Navy" red="79" green="90" blue="112"/>
+<paletteEntry name="Plum" red="130" green="106" blue="123"/>
+<paletteEntry name="Wine" red="94" green="61" blue="69"/>
+<paletteEntry name="Lime" red="71" green="117" blue="42"/>
+<paletteEntry name="Magenta" red="155" green="66" blue="110"/>
+<paletteEntry name="Orange" red="212" green="83" blue="38"/>
+<paletteEntry name="Pink" red="182" green="32" blue="60"/>
+<paletteEntry name="Sky" red="35" green="86" blue="134"/>
+<paletteEntry name="Violet" red="93" green="68" blue="123"/>
+<paletteEntry name="Yellow" red="225" green="205" blue="7"/>
+</palette>
+</Config>

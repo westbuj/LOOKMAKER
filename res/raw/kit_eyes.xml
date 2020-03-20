@@ -1,0 +1,15 @@
+
+<Config>
+<palette Name="Eye Colors">
+  <paletteEntry name="Grey" red="112" green="123" blue="115" /> 
+  <paletteEntry name="Aqua" red="100" green="197" blue="206" /> 
+  <paletteEntry name="Blue" red="115" green="135" blue="221" /> 
+  <paletteEntry name="Light Blue" red="165" green="183" blue="233" /> 
+  <paletteEntry name="Deep Blue" red="48" green="33" blue="118" /> 
+  <paletteEntry name="Brown" red="72" green="54" blue="30" /> 
+  <paletteEntry name="Dark Brown" red="111" green="77" blue="42" /> 
+  <paletteEntry name="Light Brown" red="162" green="112" blue="61" /> 
+  <paletteEntry name="Green" red="128" green="184" blue="93" /> 
+  <paletteEntry name="Hazel" red="129" green="145" blue="96" /> 
+  </palette>
+  </Config>

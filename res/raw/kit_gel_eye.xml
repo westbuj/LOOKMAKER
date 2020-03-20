@@ -1,0 +1,15 @@
+<Config>
+<palette Name="Gel Eyeliner" details="Awesome color and smudgeproof" productURL="http://www.jwcosmetics.com/viewPlid.php?plid=3">
+<paletteEntry name="Black Cherry" red="107" green="76" blue="79"/>
+<paletteEntry name="Black Out" red="84" green="81" blue="80"/>
+<paletteEntry name="Chocolate Mousse" red="95" green="77" blue="70"/>
+<paletteEntry name="Endangered" red="46" green="58" blue="47"/>
+<paletteEntry name="Magnetism" red="50" green="44" blue="40"/>
+<paletteEntry name="Tanzanite" red="100" green="63" blue="79"/>
+<paletteEntry name="Tidal Wave" red="46" green="83" blue="110"/>
+<paletteEntry name="Venomous" red="92" green="79" blue="122"/>
+<paletteEntry name="Ivy League" red="100" green="100" blue="61"/>
+<paletteEntry name="Marcasite" red="62" green="57" blue="51"/>
+<paletteEntry name="Penny" red="167" green="110" blue="96"/>
+</palette>
+</Config>

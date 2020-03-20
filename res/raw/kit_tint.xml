@@ -1,0 +1,4 @@
+<Config>
+<palette Name="Tints" details="Adjust the temperature" productURL="http://www.jwcosmetics.com/viewPlid.php?plid=45">
+<paletteEntry name="Warm" red="182" green="153" blue="117" /><paletteEntry name="Neutral" red="202" green="191" blue="172" /><paletteEntry name="Cool" red="202" green="191" blue="206" /><paletteEntry name="Grey" red="112" green="112" blue="112" /></palette>
+</Config>

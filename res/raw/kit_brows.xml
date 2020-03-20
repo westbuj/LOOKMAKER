@@ -1,0 +1,13 @@
+<Config>
+<palette Name="Brush on Brows">
+<paletteEntry name="Auburn" red="156" green="98" blue="88"/>
+<paletteEntry name="Black/Brown" red="107" green="84" blue="81"/>
+<paletteEntry name="Blonde" red="190" green="136" blue="122"/>
+<paletteEntry name="Light Brown" red="155" green="104" blue="88"/>
+<paletteEntry name="Raven" red="76" green="72" blue="73"/>
+<paletteEntry name="Smoke" red="115" green="111" blue="107"/>
+<paletteEntry name="Taupe" red="115" green="92" blue="86"/>
+<paletteEntry name="Dark Brown" red="110" green="80" blue="69"/>
+</palette>
+</Config>
+
